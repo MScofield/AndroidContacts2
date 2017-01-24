@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AndroidContacts2</string>
+    <string name="title_activity_display_contact">DisplayContactActivity</string>
+</resources>
